@@ -1,0 +1,61 @@
+.normal {
+  font-family: "Libertinus Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+nav ul li{
+    list-style: none;
+    margin-right: 50px;
+}
+nav ul{
+    display:flex;
+    align-items: center;
+}
+.kala{
+    color: #474747;
+}
+nav li a{
+    text-decoration: none;
+    font: 20px;
+}
+.text-school{
+    color:#FD6E0A;
+}
+nav{
+    display: flex;
+   
+    justify-content: space-between;
+    margin:0 200px;
+
+}
+.nav-title{
+    font: weight 800px;
+    font-size: 45px;
+
+}
+.btn-school{
+background-color: #FD6E0A;
+font-weight: bold;
+font: 20px;
+color: white;
+padding: 18px 35px;
+border-radius: 5px;
+border: none;
+}
+.baner-gree{
+    font-weight: bold;
+    font-size:10px;
+}
+.baner-taytal{
+    font-weight: bold;
+    font-size: 20px;
+}
+.baner-ar-pik{
+    width: 580px;}
+
+
+   
+
+.baner-arman{
+    display: flex;
+}
